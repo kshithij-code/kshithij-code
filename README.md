@@ -1,1 +1,1 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kshithij-code&theme=merko&hide_border=true&border_radius=8.3&date_format=j%20M%5B%20Y%5D&card_width=497&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kshithij-code&theme=merko&hide_border=true&border_radius=8.3&date_format=j%20M%5B%20Y%5D&card_width=845&card_height=250" alt="GitHub Streak" /></a>
