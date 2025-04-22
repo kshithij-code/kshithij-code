@@ -45,8 +45,9 @@ I love thoughtful conversations about ideas, systems thinking, and the future of
 Thanks for stopping by 🙌
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="800" height="350">
+<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="400" height="250">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blush-nine.vercel.app?user=kshithij-code&theme=merko&card_width=800&card_height=350" alt="GitHub Streak" /></a>
+[![kshithij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshithij-code&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <img src="Snake.svg"/>
