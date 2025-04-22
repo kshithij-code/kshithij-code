@@ -1,51 +1,48 @@
-# Hi, I'm Kshithij 👋
+Hi, I'm Kshithij 👋
 
-I'm a developer who loves building AI-powered products that help people think better, live smarter, and grow intentionally.
-
-I enjoy working at the intersection of machine learning, self-improvement, and thoughtful product design — whether it's automating decisions, organizing thoughts, or guiding people toward better financial and mental well-being.
-
----
+I'm a developer passionate about building AI-powered products that help people think better, live smarter, and grow intentionally. I focus on machine learning, self-improvement, and thoughtful product design.
 
 ### 🚧 Projects I’m building
-
-- **MindSync** – AI-powered personal knowledge base to support emotional health and self-awareness  
-- **ModelForge** – An interactive toolkit to train, evaluate, and visualize ML models on custom datasets  
-- **VeriCred** – A platform for verifying and showcasing authentic academic and professional credentials using blockchain-backed verification
-
----
+- **MindSync** – AI-powered personal knowledge base to support emotional health and self-awareness
+- **ModelForge** – An interactive toolkit to train, evaluate, and visualize ML models on custom datasets
+- **VeriCred** – A platform for verifying and showcasing academic and professional credentials using blockchain-backed verification
 
 ### 🧠 What I’m exploring
-
-- Generative AI and personal agents  
-- Human-centered design for mental clarity tools  
-- Financial wellness through accessible tech  
+- Generative AI and personal agents
+- Human-centered design for mental clarity tools
+- Financial wellness through accessible tech
 - Long-term habit systems powered by data and reflection
 
----
-
 ### 🛠️ Tech I work with
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-FF5B00?style=for-the-badge&logo=google&logoColor=white)
 
-- Python, Java, JavaScript  
-- Machine Learning (scikit-learn, PyTorch, TensorFlow)  
-- Flask, Spring Boot  
-- Maven, Git, Docker, Kaggle, Notion API  
-- Data storytelling and UI prototyping
-
----
 
 ### 🤝 Let’s connect
+Feel free to reach out or collaborate!
 
-I love thoughtful conversations about ideas, systems thinking, and the future of personal tech. Whether you're a builder, a researcher, or just curious, feel free to reach out or collaborate!
- 
-- LinkedIn: www.linkedin.com/in/kshithij-yr 
-- Email: kshithijy@gmail.com
-
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 
 Thanks for stopping by 🙌
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="400" height="250">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="700" height="250">
+</div>
 
 [![kshithij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshithij-code&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
