@@ -1,2 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="700">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kshithij-code&theme=merko&hide_border=true&border_radius=8.3&date_format=j%20M%5B%20Y%5D&card_width=845&card_height=450" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="700" height="350">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kshithij-code&theme=merko&border_radius=8.3&date_format=j%20M%5B%20Y%5D&card_width=845&card_height=350" alt="GitHub Streak" /></a>
