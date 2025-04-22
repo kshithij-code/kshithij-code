@@ -40,11 +40,10 @@ Feel free to reach out or collaborate!
 Thanks for stopping by 🙌
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="700" height="250">
-</div>
+![kshithij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&theme=merko&card_width=100) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshithij-code&layout=compact&theme=merko&width=500)
 
 [![kshithij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshithij-code&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img src="Snake.svg"/>
+
