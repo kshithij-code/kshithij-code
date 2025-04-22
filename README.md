@@ -34,8 +34,9 @@ I'm a developer passionate about building AI-powered products that help people t
 ### 🤝 Let’s connect
 Feel free to reach out or collaborate!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshithijy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshithij-yr)
+[![X.com](https://img.shields.io/badge/X.com-4B92F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YrKshithij)
 
 Thanks for stopping by 🙌
 
