@@ -42,10 +42,5 @@ Feel free to reach out or collaborate!
 Thanks for stopping by 🙌
 
 
-![kshithij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshithij-code&show_icons=true&theme=merko&card_width=100) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshithij-code&layout=compact&theme=merko&width=500)
-
-[![kshithij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshithij-code&theme=merko)]
-
-
 <img src="Snake.svg"/>
 
