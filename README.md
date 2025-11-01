@@ -40,7 +40,4 @@ Feel free to reach out or collaborate!
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kshithijyr)
 
 Thanks for stopping by 🙌
-
-
-<img src="Snake.svg"/>
-
+<img src="github-user-contribution.svg"/>
